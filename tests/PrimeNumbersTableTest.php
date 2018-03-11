@@ -1,6 +1,6 @@
 <?php
 
-class PrimeNumbersMultiplicationTableTest extends \PHPUnit_Framework_TestCase
+class PrimeNumbersTableTest extends \PHPUnit_Framework_TestCase
 {
 
 	public function testCheckPrimeWithPrime()
